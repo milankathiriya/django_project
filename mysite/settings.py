@@ -45,6 +45,10 @@ INSTALLED_APPS = [
 ]
 
 # This is simple comment line.
+# This is simple comment line.
+# This is simple comment line.
+# This is simple comment line.
+# This is simple comment line.
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
